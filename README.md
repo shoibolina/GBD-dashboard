@@ -1,4 +1,4 @@
-# GBD-dashboard
+# GBD-dashboard using D3.js
 An interactive D3.js dashboard to visualize country-level Disability-Adjusted Life Years (DALYs) from the Global Burden of Disease dataset (IHME GBD 2021). This project enables users to explore global health trends by disease and year via a choropleth map.  
 ![gbd-demo](https://github.com/user-attachments/assets/0b9decf2-9090-4d37-9405-80391ecf70b2)
 
